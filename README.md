@@ -1,10 +1,12 @@
 # Kubeusr
-CLI tools to easily manage kubernetes user based on service account and token connection
+CLI tools to easily manage kubernetes user based on service account and token connection.
+
+
 `kubeusr` can create to kind of user:
 * cluster wide admin
 * namespace admin whith scoped rights in the namespace
 
-[![asciicast](https://asciinema.org/a/fgAtKRyhOTOYA2zSvIiRZWXbm.png)](https://asciinema.org/a/fgAtKRyhOTOYA2zSvIiRZWXbm)
+[![asciicast](https://asciinema.org/a/fgAtKRyhOTOYA2zSvIiRZWXbm.png)](https://asciinema.org/a/fgAtKRyhOTOYA2zSvIiRZWXbm?speed=1.7)
 
 ## Install
 
